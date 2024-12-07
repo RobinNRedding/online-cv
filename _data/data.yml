@@ -8,30 +8,30 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Robin Redding
+    tagline: Staff Accountant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
+    email: robinredding1209@gmail.com
+    phone: 
     timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
+    website: https://robinnredding.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
+    linkedin: Robin Redding
+    xing: 
     github: jekyll
-    telegram: # add your nickname without '@' sign
+    telegram: 
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    goodreads: 
+    mastodon: 
+    hackerrank:
+    leetcode: 
+    pdf: 
 
     languages:
       title: Languages
@@ -42,13 +42,10 @@ sidebar:
         - idiom: French
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Baking
           link:
 
         - item: Snowboarding
